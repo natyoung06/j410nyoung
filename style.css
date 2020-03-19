@@ -334,7 +334,6 @@ opacity: 1;
 filter: alpha(opacity=70)
 }
 
-
 /* captions below slideshow*/
 #alt-caption {
     background-color: #a6a198;
@@ -346,6 +345,7 @@ filter: alpha(opacity=70)
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
+
 }
 
 /*----------------VIDEO-----------------*/
