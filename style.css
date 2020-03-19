@@ -73,8 +73,8 @@ nav ul li a:visited {
 }
 nav ul li a:hover,
 nav ul li a:visited:hover {
-    background-color: #D9D4CC;
-    color: #595652;
+    background-color: #595652;
+    color: #D9D4CC;
 }
 nav ul li a:not(:only-child):after,
 nav ul li a:visited:not(:only-child):after {
@@ -329,7 +329,7 @@ filter: alpha(opacity=70)
 
 /* captions below slideshow*/
 #alt-caption {
-    background-color: #0D0D0D;
+    background-color: #595652;
     color: #d9d4cc;
     font-family: 'IM Fell Great Primer SC', serif;
     font-size: .9em;
